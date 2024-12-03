@@ -1,0 +1,10 @@
+.body {
+  display: flex;
+  margin-left: 150px;
+}
+.content {
+  margin-left: 150px;
+}
+p {
+  color: red;
+}
